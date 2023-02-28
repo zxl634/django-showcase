@@ -18,4 +18,5 @@ DEBUG=
 
 - [ ] Use OpenAI to translate the prompt depending on language
 - [ ] Create word if not already in DB when trying to get word from endpoint.
-- [ ] Sanitize JSON from endpoint further (e.g. only return fields)
+- [ ] Sanitize JSON from endpoint further (e.g. only return fields)
+
